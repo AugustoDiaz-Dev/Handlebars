@@ -1,0 +1,7 @@
+#With NodeJS and Webpack
+
+npm install --save-dev webpack
+
+npm install handlebars handlebars-loader path --save-dev
+
+https://www.youtube.com/watch?v=wSNa5b1mS5Y Reference
